@@ -1,6 +1,6 @@
 # Personal Finance Manager
 
-- **Video Demo:** https://youtu.be/SGw0duC0cAI
+
 
 The Personal Finance Manager is a Python application designed to help users manage their expenses, investments, and savings goals conveniently from a command-line interface. This application allows users to perform various financial tasks such as adding expenses, tracking investments, and monitoring savings goals effortlessly.
 
